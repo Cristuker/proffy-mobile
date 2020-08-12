@@ -14,12 +14,19 @@ Proffy é uma plataforma para conectar professores e alunos a aulas online, com 
 
 ### 📸 Screenshots
 
-<img src="./.github/landing.jpeg" alt="Landing page" width="250"/>
-<img src="./.github/disponiveis.jpeg" alt="Filtrar"  width="250"/>
-<img src="./.github/disponiveis2.jpeg" alt="Proffys disponiveis"  width="250"/>
-<img src="./.github/favoritos.jpeg" alt="Proffys favoritos"  width="250"/>
-<img src="./.github/search.jpeg" alt="Empty state buscar proffys"  width="250"/>
-<img src="./.github/tudobem.jpeg" alt="Quer ser um Proffy?"  width="250"/>
+<div style="display:flex; flex-direction: row; flex-wrap: wrap;" >
+    <img src="./.github/landing.jpeg" alt="Landing page" width="250"/>
+    &nbsp;
+    <img src="./.github/disponiveis.jpeg" alt="Filtrar"  width="250"/>
+    &nbsp;
+    <img src="./.github/disponiveis2.jpeg" alt="Proffys disponiveis"  width="250"/>
+    &nbsp;
+    <img src="./.github/favoritos.jpeg" alt="Proffys favoritos"  width="250"/>
+    &nbsp;
+    <img src="./.github/search.jpeg" alt="Empty state buscar proffys"  width="250"/>
+    &nbsp;
+    <img src="./.github/tudobem.jpeg" alt="Quer ser um Proffy?"  width="250"/>
+</div>
 
 ### 🎒 Pré-requisitos
 
